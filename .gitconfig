@@ -1,0 +1,21 @@
+[color]
+  ui = auto
+[alias]
+  st = status
+  di = diff
+  ci = commit
+  br = branch
+  llog = log --date=local
+	c = checkout
+	a = add
+	cm = commit -m
+	s = status
+	b = branch
+	cd = checkout
+	cb = checkout
+	po = push origin
+[rerere]
+  enabled = true
+[user]
+	email = eabinante@gmail.com
+	name = Liz Abinante

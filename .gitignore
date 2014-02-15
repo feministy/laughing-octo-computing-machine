@@ -15,3 +15,4 @@ workspace/*
 .tmux.conf
 .zshrc
 .zprofile
+.vimrc

@@ -1,8 +1,17 @@
-# ignore everything
-*/*
-.*
-
-# except for...
-!.gitignore
-!.janus
-
+.gem
+.rvm
+.nvm
+.bash_history
+.gvimrc
+.vim
+workspace/*
+.cache
+.gemrc
+.guard_history
+.parts
+.ssh
+.VERSION
+.viminfo
+.tmux.conf
+.zshrc
+.zprofile

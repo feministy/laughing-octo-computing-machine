@@ -1,0 +1,7 @@
+# except for...
+!.gitignore
+!.janus
+
+# ignore everything else
+*/*
+.*

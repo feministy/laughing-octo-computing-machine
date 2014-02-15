@@ -1,18 +1,14 @@
 [color]
   ui = auto
 [alias]
-  st = status
   di = diff
-  ci = commit
-  br = branch
+  ct = commit
   llog = log --date=local
 	c = checkout
 	a = add
 	cm = commit -m
 	s = status
 	b = branch
-	cd = checkout
-	cb = checkout
 	po = push origin
 [rerere]
   enabled = true

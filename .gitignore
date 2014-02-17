@@ -16,3 +16,5 @@ workspace/*
 .zshrc
 .zprofile
 .vimrc
+.irb-history
+.rdebug_hist
